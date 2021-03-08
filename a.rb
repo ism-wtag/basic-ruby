@@ -1,7 +1,6 @@
 #                        ruby a.rb
 
 
-=begin
 def Fun( arr = [] )
     for x in arr
         print "#{x} "
@@ -69,4 +68,3 @@ puts "--------"
 
 arr.each { | x | puts x }
 
-=end
